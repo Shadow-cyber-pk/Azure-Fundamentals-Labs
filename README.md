@@ -17,13 +17,13 @@ I implemented a **Network Security Group (NSG)** to act as a stateful firewall w
 ## 🧠 Key Takeaway
 This exercise solidified my understanding of **Inbound Security Rules** and how to bridge the gap between a private virtual network and the public internet.
 
-## Scrennshots showing my Azure Resource group, Resources and the NGINX web serer
+## Screenshots showing my Azure Resource group, Resources and the NGINX web server
 
 ### Resource Group
-![image](https://github.com/Shadow-cyber-pk/pfsense-Multi-subnet-Lab/blob/3842beda94561b412771b99e467ab33367da41fc/images/Screenshot%202026-03-25%20094608.png)
+![Azure resource group](images/azure-resource-groups.png)
 
 ### Resources
-![Image](https://github.com/Shadow-cyber-pk/pfsense-Multi-subnet-Lab/blob/3842beda94561b412771b99e467ab33367da41fc/images/Screenshot%202026-03-25%20094632.png)
+![Azure resources](images/azure-resources.png)
 
 ### NGINX website
-![Image](https://github.com/Shadow-cyber-pk/pfsense-Multi-subnet-Lab/blob/3842beda94561b412771b99e467ab33367da41fc/images/Screenshot%202026-03-25%20094645.png)
+![NGINX website](images/nginx-website.png)
